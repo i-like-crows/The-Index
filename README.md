@@ -17,7 +17,7 @@
 
 ---
 
-#### [Lamp Recycling](): reusing leftovers from renovations
+#### [Lamp Recycling]()
 My college recently did some renovation in our dining hall and the old pendant lampshades and bases were left over
 
 ---
