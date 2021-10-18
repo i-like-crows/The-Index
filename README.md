@@ -3,7 +3,7 @@
 
 ---
 
-### Table of Contents
+## Table of Contents
 
 * [Lamp Recycling](#lamp-recycling)
 * [Happi Coat](#happi-coat)
@@ -17,37 +17,37 @@
 
 ---
 
-###### [Lamp Recycling](): reusing leftovers from renovations
+#### [Lamp Recycling](): reusing leftovers from renovations
 My college recently did some renovation in our dining hall and the old pendant lampshades and bases were left over
 
 ---
 
-###### [Happi Coat]()
+#### [Happi Coat]()
 My dad has a happi (pronounced ha-peh) coat/jacket, a traditional Japanese work jacket, and I decided that I wanted to make one for myself
 
 ---
 
-###### [Laptop Stand]()
+#### [Laptop Stand]()
 Creating a vertial laptop stand to clear up space on my desk
 
 ---
 
 #### [Keyboard Shenanigans]()
-* ###### [3D Printed Keycaps]()
+* #### [3D Printed Keycaps]()
   * Creating custom keycap profiles or some such
-* ###### [3D Printed Keystems]()
+* #### [3D Printed Keystems]()
   * Experimenting with different linear/tactile profiles
-* ###### [Custom Keychron K6 Case]()
+* #### [Custom Keychron K6 Case]()
   * Lowering the Keychron K6 keyboard to make typing without a wrist rest more comfortable
 
 ---
 
-###### [Earbud Case]()
+#### [Earbud Case]()
 * Designing an earbud Case
 
 ---
 
-###### [Ball Mazes]()
+#### [Ball Mazes]()
 * A DIY ball maze
 
 ---
