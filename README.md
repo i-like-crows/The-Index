@@ -33,11 +33,11 @@ Creating a vertial laptop stand to clear up space on my desk
 ---
 
 #### [Keyboard Shenanigans]()
-* #### [3D Printed Keycaps]()
+* ##### [3D Printed Keycaps]()
   * Creating custom keycap profiles or some such
-* #### [3D Printed Keystems]()
+* ##### [3D Printed Keystems]()
   * Experimenting with different linear/tactile profiles
-* #### [Custom Keychron K6 Case]()
+* ##### [Custom Keychron K6 Case]()
   * Lowering the Keychron K6 keyboard to make typing without a wrist rest more comfortable
 
 ---
