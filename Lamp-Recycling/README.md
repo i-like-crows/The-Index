@@ -31,3 +31,10 @@ List of possible suppliers for:
    - [by the foot](https://www.nostalgicbulbs.com/products/pendant-black-round-2-conductor-cord-per-ft-html)
    - [100 ft](https://www.nostalgicbulbs.com/products/pendant-black-round-2-conductor-cord-100-ft-spool-html)
    - [250 ft](https://www.nostalgicbulbs.com/collections/pendant-lamp-wire/products/pendant-black-round-2-conductor-cord-250-ft-spool)
+
+
+ - lamp holder
+   - from college
+
+ - lampshades
+   - from college
