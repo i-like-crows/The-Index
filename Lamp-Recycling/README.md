@@ -19,6 +19,7 @@ List of possible suppliers for:
    - [cord and plug](https://www.antiquelampsupply.com/black-18-3-svt-cord-set-with-3-prong-polarized-plug-set-choice-of-length.html): this is very expensive by comparison and has no switch
    - [True Value round](https://www.truevalue.com/catalog/product/view/id/59398/s/round-construction-plug-residential-thermoplastic-15-amp-125-volt-black/category/1084/)
    - [True Value rect](https://www.truevalue.com/shop/electrical/plugs-connectors/plugs-connectors-straight-blade-standard-grade/easy-installation-quick-plug-white-2-pk)
+   - local store carries plugs as well, not flush to wall though
 
 
  - bulbs
@@ -36,5 +37,9 @@ List of possible suppliers for:
  - lamp holder
    - from college
 
- - lampshades
+
+- lamp shades
    - from college
+
+
+- confirmed that I can take the rest of the shades and bases from the college
