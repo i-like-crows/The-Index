@@ -6,7 +6,7 @@ List of possible suppliers for:
 
 
  - inline switches
-   - [inline SVT switch](https://www.nostalgicbulbs.com/collections/all-cord-switches/products/b3092-50)
+   - [inline SVT switch](https://www.nostalgicbulbs.com/collections/all-cord-switches/products/b3092-50) @ $6.45
    - [Feed through rocker switch](https://www.menards.com/main/electrical/light-switches-dimmers-outlets/light-switches/eaton-feed-through-cord-switch-brown/bp933b/p-1444427452667-c-6324.htm?tid=-7514875377910566496&ipos=12)
    - [another feed through rocker switch](https://www.menards.com/main/electrical/light-switches-dimmers-outlets/light-switches/smart-electrician-brown-heavy-duty-cord-switch/91350/p-12148367795335690-c-6324.htm?tid=5249804315044236616&ipos=101)
 
@@ -30,8 +30,8 @@ List of possible suppliers for:
 
  - cord: 18/2 svt
    - [by the foot](https://www.nostalgicbulbs.com/products/pendant-black-round-2-conductor-cord-per-ft-html)
-   - [100 ft](https://www.nostalgicbulbs.com/products/pendant-black-round-2-conductor-cord-100-ft-spool-html)
-   - [250 ft](https://www.nostalgicbulbs.com/collections/pendant-lamp-wire/products/pendant-black-round-2-conductor-cord-250-ft-spool)
+   - [100 ft](https://www.nostalgicbulbs.com/products/pendant-black-round-2-conductor-cord-100-ft-spool-html) @ $57.93
+   - [250 ft](https://www.nostalgicbulbs.com/collections/pendant-lamp-wire/products/pendant-black-round-2-conductor-cord-250-ft-spool) @ $127.87
 
 
  - lamp holder
@@ -42,4 +42,12 @@ List of possible suppliers for:
    - from college
 
 
-- confirmed that I can take the rest of the shades and bases from the college
+- ~~confirmed that I can take the rest of the shades and bases from the college~~ Have picked up from college
+
+---
+
+|       Part       | Price |  #  | Cost    |
+|------------------|-------|-----|---------|
+| Lampshades       | free  | 13  | labor   |
+| SVT Cord (100ft) | $57.93|  2  | $115.86 |
+|  Inline Switch?  | $6.45 | 13  | $83.85  |
