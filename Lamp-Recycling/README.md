@@ -1,5 +1,5 @@
 # Lamp Recycling
----
+
 #### Recycling lamps from the dining hall
 
 List of possible suppliers for:
