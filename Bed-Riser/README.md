@@ -43,4 +43,4 @@ Four cuts\* later and I had the beginnings of the risers! (\* The chop saw actua
 
 The fit was as good as before but now with the wider bases, the risers were much more stable. I'm quite pleased with the result!
 
-**What Learned**: A few takeaways, I would probably do well to take more photos of the process in order to make things more clear. I might come back to this with some drawings of certain parts in order to clarify some of the points that aren't the easiest to follow. This was a two weekend project, so I've been able to sit down and write things up pretty quick. However, I intend to write on future projects as they happen which might keep details clearer in my head. Thanks for reading!
+**What Learned**: I would probably do well to take more photos of the process in order to make things more clear. I might come back to this with some drawings of certain parts in order to clarify some of the points that aren't the easiest to follow. This was a two weekend project, so I've been able to sit down and write things up pretty quick. However, I intend to write on future projects as they happen which might keep details clearer in my head. Thanks for reading!
