@@ -21,4 +21,4 @@ After bouncing some ideas off my parents, I decided to use some left over cedar 
 
 Four cuts\* later and I had the beginnings of the risers! (\* The chop saw actually had the bottoming out screw slightly down, so the saw wasn't getting full extension. So it was more like 4 and a couple until the issue was pointed out to me)
 
- ![Image]() 
+ ![Image](https://github.com/i-like-crows/The-Index/blob/main/Bed-Riser/Pics/blocks_on_bench.JPG)
