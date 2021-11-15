@@ -39,7 +39,7 @@ Four cuts\* later and I had the beginnings of the risers! (\* The chop saw actua
 
  The final thing to do was to test them out!
 
- ![Image](https://github.com/i-like-crows/The-Index/blob/main/Bed-Riser/Pics/in_place.JPG?s=100)
+ ![Image](https://github.com/i-like-crows/The-Index/blob/main/Bed-Riser/Pics/in_place.JPG?v=4&s=100)
 
 The fit was as good as before but now with the wider bases, the risers were much more stable. I'm quite pleased with the result!
 
