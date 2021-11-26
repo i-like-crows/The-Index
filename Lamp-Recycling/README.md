@@ -35,14 +35,14 @@ List of possible suppliers for:
 
 
  - lamp holder
-   - from college
+   - from supplier
 
 
 - lamp shades
-   - from college
+   - from supplier
 
 
-- ~~confirmed that I can take the rest of the shades and bases from the college~~ Have picked up from college
+- ~~confirmed that I can take the rest of the shades and bases from the supplier~~ Have picked up from supplier
 
 ---
 
@@ -51,3 +51,8 @@ List of possible suppliers for:
 | Lampshades       | free  | 13  | labor   |
 | SVT Cord (100ft) | $57.93|  2  | $115.86 |
 |  Inline Switch?  | $6.45 | 13  | $83.85  |
+|      Plug?       |   ?   | 13  | $??.??  |
+|------------------|-------|-----|---------|
+|                  |       |     |~$238.71 |
+|  Cost Per Lamp   |       | 13  | $18.36  |
+|  Cover cost of 2 |mark up| ~$5 | $25.00  |
