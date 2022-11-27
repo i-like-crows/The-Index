@@ -73,4 +73,5 @@ List of possible suppliers for:
 | ---> Grand Total |       |     | $132.00|
 | -> Per Lamp      |       |     | $22.00 |
 | -> Markup        |       |     | $8.00  |
+| -> Labor         |       |     | $?.00  |
 |**-> Cost to consumer**   |  |  |*$30.00*|
